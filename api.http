@@ -1,4 +1,4 @@
-POST http://localhost:3000/subscriptions
+POST http://localhost:3333/subscriptions
 Content-Type: application/json
 
 {
